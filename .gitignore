@@ -1,0 +1,11 @@
+# Python & Jupyter cache files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Plot and output directories
+plots/
+
+# System files
+.DS_Store
+Thumbs.db
